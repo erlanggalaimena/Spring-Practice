@@ -4,3 +4,4 @@ Servers/
 **/.classpath
 **/.project
 **/bin/
+build/
